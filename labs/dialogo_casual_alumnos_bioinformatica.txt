@@ -1,0 +1,3 @@
+- La expresividad de Python para el manejo de cadenas de texto es impresionante!
+- Cierto! A pesar de ser un lenguaje interpretado, merece la pena sacrificar rendimiento por la comodidad que supone para implementar muchas de las tareas típicas de nuestra amada disciplina, la genómica!
+- Qué razón tienes, pardiez!
